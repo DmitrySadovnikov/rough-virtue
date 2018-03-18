@@ -1,0 +1,6 @@
+[package]
+name = "rough-virtue"
+version = "0.1.0"
+authors = ["Dmitry Sadovnikov <sadovnikov.js@gmail.com>"]
+
+[dependencies]
